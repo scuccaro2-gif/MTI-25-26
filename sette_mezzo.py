@@ -80,3 +80,5 @@ scelta= "Y"
 
 scelta= input(f"Vuoi continuarea? Y/N ")
 scelta = scelta.upper()
+print(f"Vittorie del banco: {vittoria_giocatore}")
+print(f"Vittorie del giocatore: {vittoria_giocatore}")
