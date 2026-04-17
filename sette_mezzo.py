@@ -49,7 +49,7 @@ else:
     print()
     scelta_banco = True
 
-    while scelta_banco:
+    while scelta_banco = = False    #non si mette == ma si inizializza una variabile
         if punteggio_banco < punteggio_giocatore and punteggio_banco<7.5:
             print("Il banco chiama carta")
             carta_del_banco = randint(1,10)
